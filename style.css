@@ -1,0 +1,40 @@
+* {
+    margin: 20px;
+    background-color: #e6bcb6;
+    color: #ffffff;
+	text-align: center;
+}
+  
+.pfp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 40%;
+}  
+
+.header {
+	font-size: 200%;
+	font-family: Monaco, Courier, monospace;
+	font-weight: bold;
+	color: #ccd6dd
+}
+
+.body-text {
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 130%
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+video {
+	width: 100%;
+}
+
+.center {
+	text-align: center;
+}
